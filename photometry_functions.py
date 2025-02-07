@@ -1,5 +1,5 @@
 '''
-get_zdFF.py calculates standardized dF/F signal based on calcium-idependent 
+SZ_zdFF.py calculates standardized dF/F signal based on calcium-idependent 
 and calcium-dependent signals commonly recorded using fiber photometry calcium imaging
 
 Ocober 2019 Ekaterina Martianova ekaterina.martianova.1@ulaval.ca 
